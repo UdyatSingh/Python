@@ -108,5 +108,3 @@ elif number == "7":
 
 else:
     print("Please Re-enter the number")
-
-    print
